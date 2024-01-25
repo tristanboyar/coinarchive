@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-title,Serial Number,
+title,Serial Number,,
 subject,Country,true
 subcountry,State,
 period,Period,
@@ -15,4 +15,3 @@ reverse-text,Reverse Text,
 acquired,Date Acquired,
 source,Acquired From,
 notes,Notes,
-type,Type,
