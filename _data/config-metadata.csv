@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+title,Serial Number,
+subject,Country,true
+subcountry,State,
+period,Period,
+date,Year,
+denomination,Denomination,
+mint,Mint,
+mintage,Mintage,
+composition,Composition,
+weight,Weight (g),
+diameter,Diameter (mm),
+obverse-text,Obverse Text,
+reverse-text,Reverse Text,
+acquired,Date Acquired,
+source,Acquired From,
+notes,Notes,
 type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
