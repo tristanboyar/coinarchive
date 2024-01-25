@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Serial Number,,
-subject,Country,true
+subject,Country,true,
 subcountry,State,
 period,Period,
 date,Year,
