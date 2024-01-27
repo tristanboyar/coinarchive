@@ -2,26 +2,13 @@
 title: About
 layout: about
 permalink: /about.html
-# include CollectionBuilder info at bottom
+
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## About the Archive
 
-## About the Collection
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+I've been collecting coins since I was around 10, and have been trying to catalog them ever since. After starting and abandoning countless paper lists, notecards, and other physical media, I decided that I needed to build something digital. My first attempt with a digital catalog used Filemaker pro, and ended when I saw how much space just 25 coins took up on my computer. I then built the first Tristan Boyar Coin Archive website on github as a project for a web design class. In many ways, the original Tristan Boyar Coin Archive was an absolute godsend for me, but it still had its faults. It was clunky, complicated, visually noisy, and mistakes were hard to fix. When a change to google drive's image embedding caused all my coin photos to fail, I decided to start fresh. Using the template and tools that CollectionBuilder offers, I was able to get my collection back online in a matter of minutes, and have been able to update it far more easily. There are still some issues I'm having, but ultimately, I think the Tristan Boyar Coin Archive has found its final home. -Tristan Boyar
